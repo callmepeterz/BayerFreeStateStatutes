@@ -17,7 +17,7 @@ __Section 4__ Every citizen is entitled to the right to be treated fairly and eq
 
 __Section 5__ Every citizen is entitled to the right to remain silent, to refuse to testify or present evidence that may be used against them in court when being prosecuted under any laws.
 
-__Section 6__ Every citizen is entitled to the right to vote on all elections.
+__Section 6__ Every citizen is entitled to the right to vote on all elections and matters in Congress.
 
 __Section 7__ Every citizen shall be protected from cruel, unusual, or excessive punishments in all forms.
 
@@ -31,7 +31,7 @@ __Section 9__ Citizens may still have other rights and freedom not mentioned in 
 
 __Section 1__ All legislative powers shall be granted to the Congress of the Bayer Free State.
 
-__Section 2__ Every citizen upon being appointed by one of the members of the contemporary Congress and confirmed by at least 2/3 of Congress without any veto from any member shall be granted a seat in Congress with all of its granted rights, duties, and privileges as prescribed by this Constitution, and shall hold this seat at the discretion of Congress.
+__Section 2__ Every citizen upon receiving citizenship shall be qualified to be a member of Congress.
 
 __Section 3__ Congress shall have the power to:
     - Make laws of all kinds which must comply with this Constitution.
@@ -91,15 +91,3 @@ This Constitution shall be put into effect when passed by Congress with a 3/4 ma
 ***Article VI** Amendment*
 
 Whenever deemed necessary, Congress may propose Amendments to this Constitution, which must achieve a 5/6 majority of Congress and must be signed by both the Head of State and the Prime Minister to be amended.
-
-
-
-__**AMENDMENTS**__
-
-
-**Amendment the First**
-
-__Section I__: "and matters in Congress" in Article I Section 6 is hereby omitted.
-
-__Section II__: Article II Section 2 is hereby replaced with the following clause:
-    "Every citizen upon being appointed by one of the members of the contemporary Congress and confirmed by at least 2/3 of Congress without any veto from any member shall be granted a seat in Congress with all of its granted rights, duties, and privileges as prescribed by this Constitution, and shall hold this seat at the discretion of Congress."
