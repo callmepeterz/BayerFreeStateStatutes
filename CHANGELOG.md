@@ -14,3 +14,7 @@ All changes to any legislation will be documented in this file.
 - constitution/History.txt
 ### Updated
 - constitution/Constitution.txt (Amendment the First)
+
+## 28-08-2021
+### Added
+- docs/convention.md
