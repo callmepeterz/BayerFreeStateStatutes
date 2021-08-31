@@ -18,3 +18,8 @@ All changes to any legislation will be documented in this file.
 ## 28-08-2021
 ### Added
 - 4 past resolutions to /acts
+
+## 31-08-2021
+### Added
+- 2 past constitutional resolutions to /acts
+- bot.json

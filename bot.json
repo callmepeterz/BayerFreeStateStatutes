@@ -1,0 +1,34 @@
+{
+    "ACT_30-4-2021_00000.json": {
+      "title": "Resolution regarding the bot command ban in #general",
+      "path": "acts/ACT_30-4-2021_00000.json"
+    },
+    "ACT_30-4-2021_00001.json": {
+      "title": "Resolution regarding the Election for the Position of Prime Minister",
+      "path": "acts/ACT_30-4-2021_00001.json"
+    },
+    "ACT_2-5-2021_00002.json": {
+      "title": "Resolution regarding the voting system and the instrument used in elections",
+      "path": "acts/ACT_2-5-2021_00002.json"
+    },
+    "ACT_3-2-2021_00003.json": {
+      "title": "Resolution to separate the channel #not-shitty-for-wall for gore and sexual content",
+      "path": "acts/ACT_3-2-2021_00003.json"
+    },
+    "CON_4-6-2021_00000.json": {
+      "title": "Resolution to adopt a new Constitution",
+      "path": "acts/CON_4-6-2021_00000.json"
+    },
+    "CON_16-8-2021_00001.json": {
+      "title": "Resolution to adopt Amendment the First",
+      "path": "acts/CON_16-8-2021_00001.json"
+    },
+    "CONSTITUTION": {
+        "title": "The Constitution", 
+        "path": "constitution/Constitution.txt" 
+    },
+    "AMENDMENT_1": {
+      "title": "Amendment the First",
+      "path": "constitution/amendments/0.txt"
+    }
+}
