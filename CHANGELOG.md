@@ -23,3 +23,7 @@ All changes to any legislation will be documented in this file.
 ### Added
 - 2 past constitutional resolutions to /acts
 - bot.json
+
+## 04-09-2021
+### Updated
+- New reference code system.
