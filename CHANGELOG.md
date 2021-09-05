@@ -27,3 +27,8 @@ All changes to any legislation will be documented in this file.
 ## 04-09-2021
 ### Updated
 - New reference code system.
+
+## 05-09-2021
+### Added
+- ACT_2021_00004
+- The "isApproved" flag
