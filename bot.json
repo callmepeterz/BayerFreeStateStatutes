@@ -19,6 +19,10 @@
       "title": "An Act to authorize an election for Prime Minister of the State",
       "path": "acts/ACT_2021_00004.json"
     },
+    "ACT_2021_00005": {
+      "title": "2021 Criminal Act",
+      "path": "acts/ACT_2021_00005.json"
+    },
     "CON_2021_00000": {
       "title": "Resolution to adopt a new Constitution",
       "path": "acts/CON_2021_00000.json"
