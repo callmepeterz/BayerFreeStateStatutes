@@ -31,7 +31,7 @@ __Section 9__ Citizens may still have other rights and freedom not mentioned in 
 
 __Section 1__ All legislative powers shall be granted to the Congress of the Bayer Free State.
 
-__Section 2__ Every citizen upon being appointed by one of the members of the contemporary Congress and confirmed by at least 2/3 of Congress without any veto from any member shall be granted a seat in Congress with all of its granted rights, duties, and privileges as prescribed by this Constitution, and shall hold this seat at the discretion of Congress.
+__Section 2__ Every citizen upon being appointed by one of the members of the contemporary Congress and confirmed by at least two-thirds of Congress without any veto from any member shall be granted a seat in Congress with all of its granted rights, duties, and privileges as prescribed by this Constitution, and shall hold this seat at the discretion of Congress.
 
 __Section 3__ Congress shall have the power to:
     - Make laws of all kinds which must comply with this Constitution.
@@ -43,7 +43,7 @@ __Section 3__ Congress shall have the power to:
     - Overturn an Executive Order or Veto from either the Head of State or the Prime Minister.
     - And other powers which a Congress may fit to exercise.
 
-__Section 4__ All legislations of Congress shall be introduced in the form of a Resolution or other form of documents fit for purpose. Those shall be passed by Congress to take effect, with legislation exercising powers described in Article II Section 3 First Clause requiring a simple majority; Article II Section 3 from the Second Clause to the Fourth Clause requiring a 2/3 majority; Article II Section 3 Fifth and Seventh Clause requiring a 5/6 majority; Article II Section 3 Eighth Clause requiring a majority which shall be agreed upon by Congress with a 2/3 majority. 
+__Section 4__ All legislations of Congress shall be introduced in the form of a Resolution or other form of documents fit for purpose. Those shall be passed by Congress to take effect, with legislation exercising powers described in Article II Section 3 First Clause requiring a simple majority; Article II Section 3 from the Second Clause to the Fourth Clause requiring a two-thirds majority; Article II Section 3 Fifth and Seventh Clause requiring a five-sixths majority; Article II Section 3 Eighth Clause requiring a majority which shall be agreed upon by Congress with a two-thirds majority. 
 
 
 
@@ -56,7 +56,7 @@ __Section 2__ The owner of the guild shall be the Head of State.
 
 __Section 3__ Whenever the Congress decides that a new Prime Minister is needed, an election shall be held for the people to choose a new Prime Minister. The manners in which the election is held shall be agreed upon by Congress.
 
-__Section 4__ Upon being elected, the Prime Minister shall appoint a Deputy Prime Minister, who shall become the Acting Prime Minister with all the powers granted to the Prime Minister whenever the Prime Minister is unfit to exercise his powers, either declared through a written statement submitted to Congress or declared by the Deputy Prime Minister to Congress in a written statement and confirmed by 2/3 of Congress.
+__Section 4__ Upon being elected, the Prime Minister shall appoint a Deputy Prime Minister, who shall become the Acting Prime Minister with all the powers granted to the Prime Minister whenever the Prime Minister is unfit to exercise his powers, either declared through a written statement submitted to Congress or declared by the Deputy Prime Minister to Congress in a written statement and confirmed by two-thirds of Congress.
 
 __Section 5__ Members of the Executive Branch shall have the power to issue Executive Orders, which shall be enforced like laws. Members of the Executive Branch shall have the duty to execute legislation passed by Congress.
 
@@ -84,17 +84,17 @@ __Section 6__ The Chief Justice shall have the power to issue Court Orders, whic
 
 ***Article V** Enforcement*
 
-This Constitution shall be put into effect when passed by Congress with a 3/4 majority and signed by one of the members of the Executive Branch. This Constitution shall be enforced as the highest law of the State, overriding all law and all law in effect must comply with this Constitution and must not obstruct the rights of individuals and citizens as specified in Article I.
+This Constitution shall be put into effect when passed by Congress with a three-fourths majority and signed by one of the members of the Executive Branch. This Constitution shall be enforced as the highest law of the State, overriding all law and all law in effect must comply with this Constitution and must not obstruct the rights of individuals and citizens as specified in Article I.
 
 
 
 ***Article VI** Amendment*
 
-Whenever deemed necessary, Congress may propose Amendments to this Constitution, which must achieve a 5/6 majority of Congress and must be signed by both the Head of State and the Prime Minister to be amended.
+Whenever deemed necessary, Congress may propose Amendments to this Constitution, which must achieve a five-sixths majority of Congress and must be signed by both the Head of State and the Prime Minister to be amended.
 
 
 
-__**AMENDMENTS**__
+___**AMENDMENTS**___
 
 
 **Amendment the First**
@@ -102,7 +102,7 @@ __**AMENDMENTS**__
 __Section I__: "and matters in Congress" in Article I Section 6 is hereby omitted.
 
 __Section II__: Article II Section 2 is hereby replaced with the following clause:
-    "Every citizen upon being appointed by one of the members of the contemporary Congress and confirmed by at least 2/3 of Congress without any veto from any member shall be granted a seat in Congress with all of its granted rights, duties, and privileges as prescribed by this Constitution, and shall hold this seat at the discretion of Congress."
+    "Every citizen upon being appointed by one of the members of the contemporary Congress and confirmed by at least two-thirds of Congress without any veto from any member shall be granted a seat in Congress with all of its granted rights, duties, and privileges as prescribed by this Constitution, and shall hold this seat at the discretion of Congress."
 
 
 **Amendment the Second**

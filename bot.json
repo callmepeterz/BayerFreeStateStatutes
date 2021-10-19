@@ -38,5 +38,13 @@
     "AMENDMENT_1": {
       "title": "Amendment the First",
       "path": "constitution/amendments/0.txt"
+    },
+    "AMENDMENT_2": {
+      "title": "Amendment the Second",
+      "path": "constitution/amendments/1.txt"
+    },
+    "AMENDMENT_3": {
+      "title": "Amendment the Third",
+      "path": "constitution/amendments/2.txt"
     }
 }
