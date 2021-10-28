@@ -39,6 +39,10 @@
         "title": "The Constitution", 
         "path": "constitution/Constitution.txt" 
     },
+    "HISTORY": {
+      "title": "History of the Constitution", 
+      "path": "constitution/History.txt" 
+  },
     "AMENDMENT_1": {
       "title": "Amendment the First",
       "path": "constitution/amendments/0.txt"
