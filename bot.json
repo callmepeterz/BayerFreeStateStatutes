@@ -31,6 +31,10 @@
       "title": "Resolution to adopt Amendment the First",
       "path": "acts/CON_2021_00001.json"
     },
+    "CON_2021_00002": {
+      "title": "An Act to adopt the Second and the Third Amendments",
+      "path": "acts/CON_2021_00002.json"
+    },
     "CONSTITUTION": {
         "title": "The Constitution", 
         "path": "constitution/Constitution.txt" 
