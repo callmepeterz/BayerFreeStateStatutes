@@ -23,6 +23,10 @@
       "title": "2021 Criminal Act",
       "path": "acts/ACT_2021_00005.json"
     },
+    "ACT_2021_00006": {
+      "title": "2021 Immigration Act",
+      "path": "acts/ACT_2021_00006.json"
+    },
     "CON_2021_00000": {
       "title": "Resolution to adopt a new Constitution",
       "path": "acts/CON_2021_00000.json"
