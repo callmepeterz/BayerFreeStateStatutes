@@ -4,7 +4,7 @@ This page provides information about Bayer Free State's government and it's stat
 
 ## Quick View
 
-[Constitution](constitution/Constitution.md)
+[Constitution](constitution/Constitution.md) \
 [Changelog](CHANGELOG.md)
 
 ## Information
