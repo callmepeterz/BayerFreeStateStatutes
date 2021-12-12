@@ -1,3 +1,3 @@
 # Constitution
 
-<!--% include list.liquid all=true %}-->
+Documents related to the state constitution
