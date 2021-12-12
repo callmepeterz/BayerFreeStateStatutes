@@ -1,3 +1,3 @@
-# Constitution Folder
+# Constitution
 
-{% include list.liquid all=true %}
+<!--% include list.liquid all=true %}-->
