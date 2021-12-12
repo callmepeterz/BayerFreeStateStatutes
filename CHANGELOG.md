@@ -17,6 +17,7 @@ All changes to any legislation will be documented in this file.
 
 ## 28-08-2021
 ### Added
+- docs/convention.md
 - 4 past resolutions to /acts
 
 ## 31-08-2021
