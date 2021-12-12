@@ -18,3 +18,21 @@ All changes to any legislation will be documented in this file.
 ## 28-08-2021
 ### Added
 - docs/convention.md
+- 4 past resolutions to /acts
+
+## 31-08-2021
+### Added
+- 2 past constitutional resolutions to /acts
+- bot.json
+
+## 04-09-2021
+### Updated
+- New reference code system.
+
+## 05-09-2021
+### Added
+- ACT_2021_00004
+- The "isApproved" flag
+
+## 16-09-2021
+- ACT_2021_00005

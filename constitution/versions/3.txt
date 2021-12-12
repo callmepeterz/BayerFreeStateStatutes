@@ -122,10 +122,3 @@ Within one week of an Act passed by Congress being published, a citizen may star
 **Amendment the Fourth**
 
 For committing impeachable offenses such as bribery, corruption, abuse of power, or other serious misconducts, a citizen may start a public proposal for a referendum in order to remove any person from any public office. If the number of approvals from citizens is equal to or above the total number of citizens raised to the power of zero point six five within one week of the proposal being published, a fair and secret referendum shall be held by the Government within two weeks of the referendum being approved. The aforementioned person in office shall be removed from office and procedures to select a new office holder as provided by law shall take place if the referendum achieves a three-fourths majority of the votes.
-
-
-**Amendment the Fifth**
-
-__Section 1__: Without an election called by Congress, the term of the Prime Minister and the Deputy Prime Minister shall last no more than ninety days, after which an election is automatically triggered.
-
-__Section 2__: An election for the Office of Prime Minister shall be held on the second nearest Saturday since vacancy, during which the Office shall be vacant and the Head of State assumes the powers and duties of the Prime Minister.

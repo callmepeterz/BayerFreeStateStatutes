@@ -56,7 +56,7 @@ __Section 2__ The owner of the guild shall be the Head of State.
 
 __Section 3__ Whenever the Congress decides that a new Prime Minister is needed, an election shall be held for the people to choose a new Prime Minister. The manners in which the election is held shall be agreed upon by Congress.
 
-__Section 4__ Upon being elected, the Prime Minister shall appoint a Deputy Prime Minister, who shall become the Acting Prime Minister with all the powers granted to the Prime Minister whenever the Prime Minister is unfit to exercise the powers associated with the Office, either declared through a written statement submitted to Congress or declared by the Deputy Prime Minister to Congress in a written statement and confirmed by two-thirds of Congress.
+__Section 4__ Upon being elected, the Prime Minister shall appoint a Deputy Prime Minister, who shall become the Acting Prime Minister with all the powers granted to the Prime Minister whenever the Prime Minister is unfit to exercise his powers, either declared through a written statement submitted to Congress or declared by the Deputy Prime Minister to Congress in a written statement and confirmed by two-thirds of Congress.
 
 __Section 5__ Members of the Executive Branch shall have the power to issue Executive Orders, which shall be enforced like laws. Members of the Executive Branch shall have the duty to execute legislation passed by Congress.
 
@@ -117,15 +117,3 @@ __Section III__: No person holding any office belonging to the executive branch 
 **Amendment the Third**
 
 Within one week of an Act passed by Congress being published, a citizen may start a public proposal for a referendum in order to repeal any parts, or sections of, or all of the Act. If the number of approvals from citizens is equal to or above the total number of citizens raised to the power of zero point six five within one week of the proposal being published, a fair and secret referendum shall be held by the Government within two weeks of the referendum being approved. The aforementioned Act or parts or sections of the Act shall be repealed if the referendum achieves a three-fourths majority of the votes.
-
-
-**Amendment the Fourth**
-
-For committing impeachable offenses such as bribery, corruption, abuse of power, or other serious misconducts, a citizen may start a public proposal for a referendum in order to remove any person from any public office. If the number of approvals from citizens is equal to or above the total number of citizens raised to the power of zero point six five within one week of the proposal being published, a fair and secret referendum shall be held by the Government within two weeks of the referendum being approved. The aforementioned person in office shall be removed from office and procedures to select a new office holder as provided by law shall take place if the referendum achieves a three-fourths majority of the votes.
-
-
-**Amendment the Fifth**
-
-__Section 1__: Without an election called by Congress, the term of the Prime Minister and the Deputy Prime Minister shall last no more than ninety days, after which an election is automatically triggered.
-
-__Section 2__: An election for the Office of Prime Minister shall be held on the second nearest Saturday since vacancy, during which the Office shall be vacant and the Head of State assumes the powers and duties of the Prime Minister.

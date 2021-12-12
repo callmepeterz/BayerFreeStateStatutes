@@ -1,0 +1,74 @@
+{
+    "ACT_2021_00000": {
+      "title": "Resolution regarding the bot command ban in #general",
+      "path": "acts/ACT_2021_00000.json"
+    },
+    "ACT_2021_00001": {
+      "title": "Resolution regarding the Election for the Position of Prime Minister",
+      "path": "acts/ACT_2021_00001.json"
+    },
+    "ACT_2021_00002": {
+      "title": "Resolution regarding the voting system and the instrument used in elections",
+      "path": "acts/ACT_2021_00002.json"
+    },
+    "ACT_2021_00003": {
+      "title": "Resolution to separate the channel #not-shitty-for-wall for gore and sexual content",
+      "path": "acts/ACT_2021_00003.json"
+    },
+    "ACT_2021_00004": {
+      "title": "An Act to authorize an election for Prime Minister of the State",
+      "path": "acts/ACT_2021_00004.json"
+    },
+    "ACT_2021_00005": {
+      "title": "2021 Criminal Act",
+      "path": "acts/ACT_2021_00005.json"
+    },
+    "ACT_2021_00006": {
+      "title": "2021 Immigration Act",
+      "path": "acts/ACT_2021_00006.json"
+    },
+    "ACT_2021_00007": {
+      "title": "2021 Fidelissma Acquisition Act",
+      "path": "acts/ACT_2021_00007.json"
+    },
+    "CON_2021_00000": {
+      "title": "Resolution to adopt a new Constitution",
+      "path": "acts/CON_2021_00000.json"
+    },
+    "CON_2021_00001": {
+      "title": "Resolution to adopt Amendment the First",
+      "path": "acts/CON_2021_00001.json"
+    },
+    "CON_2021_00002": {
+      "title": "An Act to adopt the Second and the Third Amendments",
+      "path": "acts/CON_2021_00002.json"
+    },
+    "CONSTITUTION": {
+        "title": "The Constitution", 
+        "path": "constitution/Constitution.txt" 
+    },
+    "HISTORY": {
+      "title": "History of the Constitution", 
+      "path": "constitution/History.txt" 
+  },
+    "AMENDMENT_1": {
+      "title": "Amendment the First",
+      "path": "constitution/amendments/0.txt"
+    },
+    "AMENDMENT_2": {
+      "title": "Amendment the Second",
+      "path": "constitution/amendments/1.txt"
+    },
+    "AMENDMENT_3": {
+      "title": "Amendment the Third",
+      "path": "constitution/amendments/2.txt"
+    },
+    "AMENDMENT_4": {
+      "title": "Amendment the Fourth",
+      "path": "constitution/amendments/3.txt"
+    },
+    "AMENDMENT_5": {
+      "title": "Amendment the Fifth",
+      "path": "constitution/amendments/4.txt"
+    }
+}
