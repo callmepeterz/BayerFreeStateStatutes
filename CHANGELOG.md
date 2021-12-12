@@ -34,4 +34,5 @@ All changes to any legislation will be documented in this file.
 - The "isApproved" flag
 
 ## 16-09-2021
+### Added
 - ACT_2021_00005

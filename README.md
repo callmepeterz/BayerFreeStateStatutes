@@ -1,18 +1,20 @@
 # BayerFreeStateStatutes
 
-lorem ipsum
+This page provides information about Bayer Free State's government and it's state registry content.
 
-## Header 2
+## Quick View
 
-was it a dream
+[Constitution](constitution/Constitution.md)
+[Changelog](CHANGELOG.md)
 
-list: 
-- hi
-- hello
+## Information
 
-[link](https://example.com "hover")
+add more stuffs here, ex:
 
-- [x] checkmark
-- [ ] no
+### government structure
 
+sth sth
 
+#### legislative branch, ...
+
+whoever in here
