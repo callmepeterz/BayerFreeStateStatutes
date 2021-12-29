@@ -43,6 +43,18 @@
       "title": "An Act to adopt the Second and the Third Amendments",
       "path": "acts/CON_2021_00002.json"
     },
+    "CON_2021_00003": {
+      "title": "An act to adopt the Fourth Amendment and to make a correction to the Constitution",
+      "path": "acts/CON_2021_00003.json"
+    },
+    "CON_2021_00004": {
+      "title": "An act to adopt the Fifth Amendment",
+      "path": "acts/CON_2021_00004.json"
+    },
+    "CON_2021_00005": {
+      "title": "2021 Congress Reform and Amendments Act",
+      "path": "acts/CON_2021_00005.json"
+    },
     "CONSTITUTION": {
         "title": "The Constitution", 
         "path": "constitution/Constitution.txt" 
