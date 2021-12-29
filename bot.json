@@ -57,11 +57,11 @@
     },
     "CONSTITUTION": {
         "title": "The Constitution", 
-        "path": "constitution/Constitution.txt" 
+        "path": "constitution/Constitution.md" 
     },
     "HISTORY": {
       "title": "History of the Constitution", 
-      "path": "constitution/History.txt" 
+      "path": "constitution/History.md" 
   },
     "AMENDMENT_1": {
       "title": "Amendment the First",
