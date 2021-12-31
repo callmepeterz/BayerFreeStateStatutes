@@ -82,5 +82,13 @@
     "AMENDMENT_5": {
       "title": "Amendment the Fifth",
       "path": "constitution/amendments/4.txt"
+    },
+    "AMENDMENT_6": {
+      "title": "Amendment the Sixth",
+      "path": "constitution/amendments/5.txt"
+    },
+    "AMENDMENT_7": {
+      "title": "Amendment the Seventh",
+      "path": "constitution/amendments/6.txt"
     }
 }

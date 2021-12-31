@@ -1,0 +1,9 @@
+Introduced by: @callmepeterz
+Ratified by Congress on: 29-12-2021
+Signed on: 29-12-2021
+
+
+**Amendment the Seventh**
+
+Article II, Section 2 shall be replaced with the following clause.
+	"Members of Congress shall be elected in a fair and secret election using the single transferrable voting method held every six months. The number of seats of Congress shall be determined by the formula 2.25*(x^0.2) rounded down, in which x is the number of full citizens of the State. Should a seat become vacant, a fair and secret election shall be held using the instant runoff voting method for a replacement, who shall serve until the end of the contemporary Congress."
