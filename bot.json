@@ -31,6 +31,10 @@
       "title": "2021 Fidelissma Acquisition Act",
       "path": "acts/ACT_2021_00007.json"
     },
+    "ACT_2022_00000": {
+      "title": "2022 Flag Act",
+      "path": "acts/ACT_2022_00000.json"
+    },
     "CON_2021_00000": {
       "title": "Resolution to adopt a new Constitution",
       "path": "acts/CON_2021_00000.json"
@@ -42,6 +46,18 @@
     "CON_2021_00002": {
       "title": "An Act to adopt the Second and the Third Amendments",
       "path": "acts/CON_2021_00002.json"
+    },
+    "CON_2021_00003": {
+      "title": "An act to adopt the Fourth Amendment and to make a correction to the Constitution",
+      "path": "acts/CON_2021_00003.json"
+    },
+    "CON_2021_00004": {
+      "title": "An act to adopt the Fifth Amendment",
+      "path": "acts/CON_2021_00004.json"
+    },
+    "CON_2021_00005": {
+      "title": "2021 Congress Reform and Amendments Act",
+      "path": "acts/CON_2021_00005.json"
     },
     "CONSTITUTION": {
         "title": "The Constitution", 
@@ -70,5 +86,13 @@
     "AMENDMENT_5": {
       "title": "Amendment the Fifth",
       "path": "constitution/amendments/4.txt"
+    },
+    "AMENDMENT_6": {
+      "title": "Amendment the Sixth",
+      "path": "constitution/amendments/5.txt"
+    },
+    "AMENDMENT_7": {
+      "title": "Amendment the Seventh",
+      "path": "constitution/amendments/6.txt"
     }
 }

@@ -1,0 +1,14 @@
+{
+    "title": "2022 Flag Act",
+    "referenceCode": "ACT_2021_00000",
+    "author": {
+        "id": "584597326543323139",
+        "username": "callmepeterz#1300"
+    },
+    "description": "Defines a flag for the Bayer Free State.",
+    "dateOfApproval": "7-1-2022",
+    "isRepealed": false,
+    "isApproved": true,
+    "content": "**AN ACT**\n    *of the Congress of the Bayer Free State*\n    reference code ACT_2022_00000.\n    \n    *Be it enacted by this Congress*, That, this legislation shall be cited as the \"2022 Flag Act\".\n    \n    \n    \n    __Article I__\n    \n    Section 1: The Flag of the Bayer Free State shall be a horizontal rectangular tricolor of cyan, black, and orange with a ratio of two-to-three, and, in the center, there shall be three white crosses arranged horizontally, whose stroke width shall be one-fifteenth the height of the Flag, each of the crosses shall have the height and width of three times the stroke width, and each shall be twice the stroke width apart from the other crosses.\n    \n    Section 2: The colors mentioned in Article I Section 1 shall have the following hexadecimal values:\n    - Cyan: #4B7B8F\n    - Black: #000000\n    - Orange: #CB7943\n    - White: #FFFFFF\n    \n    Section 3: When displayed vertically, the orange stripe of the Flag shall be on the left side of the observer.\n    \n    \n    __Article II__\n    \n    When used in the Constituent State of Fidelissma or any other Minecraft servers as a \"Banner\" block, the Flag shall be represented by a \"Black Banner\" block with the following banner item design, or any of its visual equivalence:\n    \"Black Banner\n    - Orange Pale Dexter\n    - Cyan Pale Sinister\"",
+    "amendments": []
+}
