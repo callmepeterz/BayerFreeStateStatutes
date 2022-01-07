@@ -31,6 +31,10 @@
       "title": "2021 Fidelissma Acquisition Act",
       "path": "acts/ACT_2021_00007.json"
     },
+    "ACT_2022_00000": {
+      "title": "2022 Flag Act",
+      "path": "acts/ACT_2022_00000.json"
+    },
     "CON_2021_00000": {
       "title": "Resolution to adopt a new Constitution",
       "path": "acts/CON_2021_00000.json"
