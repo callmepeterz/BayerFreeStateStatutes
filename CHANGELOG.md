@@ -60,7 +60,7 @@ All notable changes to any legislation will be documented in this file.
 ### Added
 - ACT_2021_00005
 
-## [17-04-2022](#3)
+## 17-04-2022
 ### Added
 - constitution/archive
 ### Changed
