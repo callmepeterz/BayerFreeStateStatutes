@@ -1,106 +1,138 @@
 {
     "ACT_2021_00000": {
       "title": "Resolution regarding the bot command ban in #general",
-      "path": "acts/ACT_2021_00000.json"
+      "path": "acts/ACT_2021_00000.pdf"
     },
     "ACT_2021_00001": {
       "title": "Resolution regarding the Election for the Position of Prime Minister",
-      "path": "acts/ACT_2021_00001.json"
+      "path": "acts/ACT_2021_00001.pdf"
     },
     "ACT_2021_00002": {
       "title": "Resolution regarding the voting system and the instrument used in elections",
-      "path": "acts/ACT_2021_00002.json"
+      "path": "acts/ACT_2021_00002.pdf"
     },
     "ACT_2021_00003": {
       "title": "Resolution to separate the channel #not-shitty-for-wall for gore and sexual content",
-      "path": "acts/ACT_2021_00003.json"
+      "path": "acts/ACT_2021_00003.pdf"
     },
     "ACT_2021_00004": {
       "title": "An Act to authorize an election for Prime Minister of the State",
-      "path": "acts/ACT_2021_00004.json"
+      "path": "acts/ACT_2021_00004.pdf"
     },
     "ACT_2021_00005": {
       "title": "2021 Criminal Act",
-      "path": "acts/ACT_2021_00005.json"
+      "path": "acts/ACT_2021_00005.pdf"
     },
     "ACT_2021_00006": {
       "title": "2021 Immigration Act",
-      "path": "acts/ACT_2021_00006.json"
+      "path": "acts/ACT_2021_00006.pdf"
     },
     "ACT_2021_00007": {
       "title": "2021 Fidelissma Acquisition Act",
-      "path": "acts/ACT_2021_00007.json"
+      "path": "acts/ACT_2021_00007.pdf"
     },
     "ACT_2022_00000": {
       "title": "2022 Flag Act",
-      "path": "acts/ACT_2022_00000.json"
+      "path": "acts/ACT_2022_00000.pdf"
     },
     "ACT_2022_00001": {
       "title": "2022 Fidelissma Criminal Act",
-      "path": "acts/ACT_2022_00001.json"
+      "path": "acts/ACT_2022_00001.pdf"
     },
     "ACT_2022_00002": {
       "title": "2022 Act to Ratify the Sanjowor Convention on Diplomatic Relations",
-      "path": "acts/ACT_2022_00002.json"
+      "path": "acts/ACT_2022_00002.pdf"
+    },
+    "ACT_2022_00003": {
+      "title": "2022 Criminal Act",
+      "path": "acts/ACT_2022_00003.pdf"
+    },
+    "ACT_2022_00004": {
+      "title": "2022 Immigration Act",
+      "path": "acts/ACT_2022_00004.pdf"
+    },
+    "ACT_2022_00005": {
+      "title": "2022 Parliament Composition Act",
+      "path": "acts/ACT_2022_00005.pdf"
+    },
+    "ACT_2022_00006": {
+      "title": "2022 Criminal Proceeding Act",
+      "path": "acts/ACT_2022_00006.pdf"
+    },
+    "ACT_2022_00007": {
+      "title": "2022 Election Act",
+      "path": "acts/ACT_2022_00007.pdf"
+    },
+    "ACT_2022_00008": {
+      "title": "2022 Flag Act (No. 2)",
+      "path": "acts/ACT_2022_00008.pdf"
+    },
+    "ACT_2022_00009": {
+      "title": "2022 Appellate Proceeding Act",
+      "path": "acts/ACT_2022_00009.pdf"
+    },
+    "ACT_2022_00010": {
+      "title": "2022 Maritime Flags Act",
+      "path": "acts/ACT_2022_00010.pdf"
+    },
+    "ACT_2022_00011": {
+      "title": "2022 Governmental Intellectual Property Act",
+      "path": "acts/ACT_2022_00011.pdf"
+    },
+    "ACT_2022_00012": {
+      "title": "2022 Parliamentary Proceeding Act",
+      "path": "acts/ACT_2022_00012.pdf"
+    },
+    "ACT_2022_00013": {
+      "title": "2022 Administrative Act",
+      "path": "acts/ACT_2022_00013.pdf"
+    },
+    "ACT_2022_00014": {
+      "title": "2022 Constitutional Amendment (Amendment the First) Act",
+      "path": "acts/ACT_2022_00014.pdf"
     },
     "CON_2021_00000": {
       "title": "Resolution to adopt a new Constitution",
-      "path": "acts/CON_2021_00000.json"
+      "path": "acts/CON_2021_00000.pdf"
     },
     "CON_2021_00001": {
       "title": "Resolution to adopt Amendment the First",
-      "path": "acts/CON_2021_00001.json"
+      "path": "acts/CON_2021_00001.pdf"
     },
     "CON_2021_00002": {
       "title": "An Act to adopt the Second and the Third Amendments",
-      "path": "acts/CON_2021_00002.json"
+      "path": "acts/CON_2021_00002.pdf"
     },
     "CON_2021_00003": {
       "title": "An act to adopt the Fourth Amendment and to make a correction to the Constitution",
-      "path": "acts/CON_2021_00003.json"
+      "path": "acts/CON_2021_00003.pdf"
     },
     "CON_2021_00004": {
       "title": "An act to adopt the Fifth Amendment",
-      "path": "acts/CON_2021_00004.json"
+      "path": "acts/CON_2021_00004.pdf"
     },
     "CON_2021_00005": {
       "title": "2021 Congress Reform and Amendments Act",
-      "path": "acts/CON_2021_00005.json"
+      "path": "acts/CON_2021_00005.pdf"
     },
     "CONSTITUTION": {
         "title": "The Constitution", 
-        "path": "constitution/Constitution.md" 
+        "path": "constitution/Constitution.pdf" 
     },
-    "HISTORY": {
-      "title": "History of the Constitution", 
-      "path": "constitution/History.md" 
-  },
-    "AMENDMENT_1": {
-      "title": "Amendment the First",
-      "path": "constitution/amendments/0.txt"
+    "FREEDOM_DECLARATION": {
+      "title": "The Declaration of Freedom",
+      "path": "constitution/archive/2020/Declaration_of_Freedom.pdf"
     },
-    "AMENDMENT_2": {
-      "title": "Amendment the Second",
-      "path": "constitution/amendments/1.txt"
+    "2020_CONSTITUTION": {
+      "title": "The 2020 (First) Constitution",
+      "path": "constitution/archive/2020/Constitution_of_the_Server.pdf"
     },
-    "AMENDMENT_3": {
-      "title": "Amendment the Third",
-      "path": "constitution/amendments/2.txt"
+    "2021_CONSTITUTION": {
+      "title": "The 2021 (Second) Constitution",
+      "path": "constitution/archive/2021/Constitution.pdf"
     },
-    "AMENDMENT_4": {
-      "title": "Amendment the Fourth",
-      "path": "constitution/amendments/3.txt"
-    },
-    "AMENDMENT_5": {
-      "title": "Amendment the Fifth",
-      "path": "constitution/amendments/4.txt"
-    },
-    "AMENDMENT_6": {
-      "title": "Amendment the Sixth",
-      "path": "constitution/amendments/5.txt"
-    },
-    "AMENDMENT_7": {
-      "title": "Amendment the Seventh",
-      "path": "constitution/amendments/6.txt"
-    }
+    "2021_HISTORY": {
+      "title": "History of the 2021 (Second) Constitution", 
+      "path": "constitution/archive/2021/History.pdf" 
+  }
 }

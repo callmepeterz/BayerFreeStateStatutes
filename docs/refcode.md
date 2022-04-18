@@ -1,4 +1,4 @@
-# Reference code convention
+# Reference code convention (OUTDATED)
 The basic format of any reference code is 
 `<type>_<date>/<index>`\
 There can be a shorter format which will only return the latest version of document
