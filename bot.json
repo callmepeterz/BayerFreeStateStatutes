@@ -4,11 +4,11 @@
       "path": "acts/ACT_2021_00000.pdf"
     },
     "ACT_2021_00001": {
-      "title": "Resolution regarding the Election for the Position of Prime Minister",
+      "title": "Resolution regarding the Election for the Position of Prime Minister [REPEALED]",
       "path": "acts/ACT_2021_00001.pdf"
     },
     "ACT_2021_00002": {
-      "title": "Resolution regarding the voting system and the instrument used in elections",
+      "title": "Resolution regarding the voting system and the instrument used in elections [REPEALED]",
       "path": "acts/ACT_2021_00002.pdf"
     },
     "ACT_2021_00003": {
@@ -20,11 +20,11 @@
       "path": "acts/ACT_2021_00004.pdf"
     },
     "ACT_2021_00005": {
-      "title": "2021 Criminal Act",
+      "title": "2021 Criminal Act [REPEALED]",
       "path": "acts/ACT_2021_00005.pdf"
     },
     "ACT_2021_00006": {
-      "title": "2021 Immigration Act",
+      "title": "2021 Immigration Act [REPEALED]",
       "path": "acts/ACT_2021_00006.pdf"
     },
     "ACT_2021_00007": {
@@ -32,15 +32,15 @@
       "path": "acts/ACT_2021_00007.pdf"
     },
     "ACT_2022_00000": {
-      "title": "2022 Flag Act",
+      "title": "2022 Flag Act [REPEALED]",
       "path": "acts/ACT_2022_00000.pdf"
     },
     "ACT_2022_00001": {
-      "title": "2022 Fidelissma Criminal Act",
+      "title": "2022 Fidelissma Criminal Act [REPEALED]",
       "path": "acts/ACT_2022_00001.pdf"
     },
     "ACT_2022_00002": {
-      "title": "2022 Act to Ratify the Sanjowor Convention on Diplomatic Relations",
+      "title": "2022 Act to Ratify the Sanjowor Convention on Diplomatic Relations [VOIDED]",
       "path": "acts/ACT_2022_00002.pdf"
     },
     "ACT_2022_00003": {
@@ -76,11 +76,11 @@
       "path": "acts/ACT_2022_00010.pdf"
     },
     "ACT_2022_00011": {
-      "title": "2022 Governmental Intellectual Property Act",
+      "title": "2022 Governmental Intellectual Property Act [REPEALED]",
       "path": "acts/ACT_2022_00011.pdf"
     },
     "ACT_2022_00012": {
-      "title": "2022 Parliamentary Proceeding Act",
+      "title": "2022 Parliamentary Proceeding Act [REPEALED]",
       "path": "acts/ACT_2022_00012.pdf"
     },
     "ACT_2022_00013": {
@@ -92,7 +92,7 @@
       "path": "acts/ACT_2022_00014.pdf"
     },
     "ACT_2022_00015": {
-      "title": "2022 Diplomatic Policy Act",
+      "title": "2022 Diplomatic Policy Act [REPEALED]",
       "path": "acts/ACT_2022_00015.pdf"
     },
     "ACT_2022_00016": {
@@ -130,6 +130,30 @@
     "ACT_2022_00024": {
       "title": "2022 Parliament Composition (No. 2) Act",
       "path": "acts/ACT_2022_00024.pdf"
+    },
+    "ACT_2022_00025": {
+      "title": "2022 Constitutional Amendment (Amendment the Third) Act",
+      "path": "acts/ACT_2022_00025.pdf"
+    },
+    "ACT_2022_00026": {
+      "title": "2022 Administrative (Amendment) Act",
+      "path": "acts/ACT_2022_00026.pdf"
+    },
+    "ACT_2023_00001": {
+      "title": "2023 Criminal (Amendment) Act",
+      "path": "acts/ACT_2023_00001.pdf"
+    },
+    "ACT_2023_00002": {
+      "title": "2023 Storhalstad Agreement Act",
+      "path": "acts/ACT_2023_00002.pdf"
+    },
+    "ACT_2023_00003": {
+      "title": "2023 Act to repeal the 2022 Parliamentary Proceedings Act",
+      "path": "acts/ACT_2023_00003.pdf"
+    },
+    "ACT_2023_00004": {
+      "title": "2023 Act to repeal the 2022 Governmental Intellectual Property Act and the 2022 Diplomatic Policy Act",
+      "path": "acts/ACT_2023_00004.pdf"
     },
     "CON_2021_00000": {
       "title": "Resolution to adopt a new Constitution",
